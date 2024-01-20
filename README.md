@@ -1,2 +1,2 @@
 # LEDman-Light-up-my-matrix-
-ИВР
+HSE Lyceum IT Project
