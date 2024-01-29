@@ -4,7 +4,7 @@
 
 ### Электронная почта: ptrlbdv@yandex.ru
 
-### Тг:
+### Тг: https://t.me/Lebedev_Petr
 
 **[ НАЗВАНИЕ ПРОЕКТА ]**
 
