@@ -1,12 +1,12 @@
-﻿\# Лебедев Пётр - desktop game "LEDman, Light up my matrix"
+﻿# Лебедев Пётр - desktop game "LEDman, Light up my matrix"
 
-\# Пользовательские сценарии
+# Пользовательские сценарии
 
-\### Группа: 10И2 - 11И2
+### Группа: 10И2 - 11И2
 
-\### Электронная почта: ptrlbdv@yandex.ru
+### Электронная почта: ptrlbdv@yandex.ru
 
-\### Tg: https://t.me/Lebedev\_Petr
+### Tg: https://t.me/Lebedev\_Petr
 
 
 ### [ Сценарий 1 - Вход в игру и настройка игровых возможностей лично под каждого пользователя ]
